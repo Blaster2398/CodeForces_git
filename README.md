@@ -3,9 +3,6 @@
 This repository contains my solutions to various Codeforces problems. Codeforces is a competitive programming platform where I practice my problem-solving skills and improve my algorithmic knowledge.
 
 ## Structure
-
-- Each problem solution is organized in a separate folder.
-- Inside each folder, you will find the source code file(s) and any necessary input/output files.
 - The source code is written in C++ and follows best practices for readability and efficiency.
 
 ## How to Use
