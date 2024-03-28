@@ -12,13 +12,11 @@ This repository contains my solutions to various Codeforces problems. Codeforces
     git clone https://github.com/Blaster2398/CodeForces_git/
     ```
 
-2. Navigate to the specific problem folder you are interested in.
+2. Compile and run the source code file(s) using your preferred compiler or IDE.
 
-3. Compile and run the source code file(s) using your preferred compiler or IDE.
+3. If necessary, provide the input as mentioned in the problem statement.
 
-4. If necessary, provide the input as mentioned in the problem statement.
-
-5. Compare the output with the expected output to verify the correctness of the solution.
+4. Compare the output with the expected output to verify the correctness of the solution.
 
 ## Contributing
 
